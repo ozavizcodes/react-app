@@ -1,7 +1,12 @@
 .App {
   text-align: center;
+  
 }
-
+.childDiv {
+  width: 500px;
+  height: 700px;
+  background: dodgerblue;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
